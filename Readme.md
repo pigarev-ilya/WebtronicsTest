@@ -1,5 +1,6 @@
 # WebtronicsTest
-
+## Задача:
+![](task.jpg)
 ## Инструкция по запуску (Используется Docker):
 Настроить в .env.dev переменные:  
 HUNTER_IO_KEY - ключ для использования Email Verifier API Hunter.io  
